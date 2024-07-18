@@ -35,10 +35,9 @@ Movie_Review_Sentiment_Analysis/
 │   └── small_dataset.csv  # 1,000 entries
 │
 ├── models/
-    ├── logistic_regression_model.pkl
-    ├── random_forest_model.pkl
-    ├── linear_svc_model.pkl
-    |── naive_bayes_model.pkl
-    ├── tfidf_vectorizer.pkl
+    ├── logistic_regression_model
+    ├── random_forest_model
+    ├── linear_svc_model
+    |── naive_bayes_model
 
 
